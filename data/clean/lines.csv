@@ -1,0 +1,10 @@
+line_code,line_name,line_colour,line_type
+NS,North-South Line,#D62821,MRT
+EW,East-West Line,#189E4A,MRT
+NE,North-East Line,#844184,MRT
+CC,Circle Line,#F2AD27,MRT
+DT,Downtown Line,#0354A6,MRT
+TE,Thomson-East Coast Line,#9D5A25,MRT
+BP,Bukit Panjang LRT,#6E8270,LRT
+SK,Sengkang LRT,#6E8270,LRT
+PG,Punggol LRT,#6E8270,LRT

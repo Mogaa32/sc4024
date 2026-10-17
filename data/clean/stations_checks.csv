@@ -1,0 +1,185 @@
+station_code,station_name,gtfs_station_ids,missing_parts,region_method,n_exits,exit_distance_m
+BP10,Fajar,BP10,,inside,1.0,20.0
+BP11,Segar,BP11,,inside,1.0,28.0
+BP12,Jelapang,BP12,,inside,1.0,25.0
+BP13,Senja,BP13,,inside,1.0,20.0
+BP2,South View,BP2,,inside,1.0,21.0
+BP3,Keat Hong,BP3,,inside,1.0,25.0
+BP4,Teck Whye,BP4,,inside,1.0,18.0
+BP5,Phoenix,BP5,,inside,1.0,24.0
+BP6/DT1,Bukit Panjang,BP6; DT1,,inside,8.0,20.0
+BP7,Petir,BP7,,inside,1.0,22.0
+BP8,Pending,BP8,,inside,1.0,20.0
+BP9,Bangkit,BP9,,inside,1.0,20.0
+CC10/DT26,MacPherson,CC10,,inside,5.0,42.0
+CC11,Tai Seng,CC11,,inside,3.0,42.0
+CC12,Bartley,CC12,,inside,2.0,16.0
+CC14,Lorong Chuan,CC14,,inside,2.0,24.0
+CC16,Marymount,CC16,,inside,2.0,43.0
+CC17/TE9,Caldecott,CC17,,inside,4.0,58.0
+CC19/DT9,Botanic Gardens,CC19,,inside,2.0,75.0
+CC2,Bras Basah,CC2,,inside,5.0,24.0
+CC20,Farrer Road,CC20,,inside,2.0,56.0
+CC21,Holland Village,CC21,,inside,3.0,150.0
+CC23,one-north,CC23,,inside,4.0,23.0
+CC24,Kent Ridge,CC24,,inside,4.0,13.0
+CC25,Haw Par Villa,CC25,,inside,1.0,67.0
+CC26,Pasir Panjang,CC26,,inside,1.0,81.0
+CC27,Labrador Park,CC27,,inside,1.0,35.0
+CC28,Telok Blangah,CC28,,inside,1.0,24.0
+CC3,Esplanade,CC3,,inside,7.0,11.0
+CC30,Keppel,CC30,,inside,3.0,46.0
+CC31,Cantonment,CC31,,inside,4.0,40.0
+CC32,Prince Edward Road,CC32,,inside,2.0,142.0
+CC34/DT16,Bayfront,CC34,,inside,5.0,28.0
+CC4/DT15,Promenade,CC4,,inside,3.0,80.0
+CC5,Nicoll Highway,CC5,,inside,2.0,25.0
+CC6,Stadium,CC6,,inside,2.0,10.0
+CC7,Mountbatten,CC7,,inside,2.0,59.0
+CC8,Dakota,CC8,,inside,2.0,44.0
+CG1/DT35,Expo,CG1,,inside,8.0,118.0
+CG2,Changi Airport,CG2,,inside,2.0,89.0
+DT10/TE11,Stevens,DT10,,inside,5.0,27.0
+DT13,Rochor,DT13,,inside,2.0,36.0
+DT17,Downtown,DT17,,inside,6.0,15.0
+DT18,Telok Ayer,DT18,,inside,5.0,9.0
+DT2,Cashew,DT2,,inside,1.0,23.0
+DT20,Fort Canning,DT20,,inside,2.0,17.0
+DT21,Bencoolen,DT21,,inside,3.0,47.0
+DT22,Jalan Besar,DT22,,inside,2.0,18.0
+DT23,Bendemeer,DT23,,inside,2.0,4.0
+DT24,Geylang Bahru,DT24,,inside,2.0,33.0
+DT25,Mattar,DT25,,inside,2.0,2.0
+DT27,Ubi,DT27,,inside,2.0,9.0
+DT28,Kaki Bukit,DT28,,inside,2.0,93.0
+DT29,Bedok North,DT29,,inside,4.0,75.0
+DT3,Hillview,DT3,,inside,2.0,8.0
+DT30,Bedok Reservoir,DT30,,inside,2.0,74.0
+DT31,Tampines West,DT31,,inside,2.0,28.0
+DT33,Tampines East,DT33,,inside,4.0,54.0
+DT34,Upper Changi,DT34,,inside,5.0,30.0
+DT4,Hume,DT4,,inside,2.0,63.0
+DT5,Beauty World,DT5,,inside,3.0,16.0
+DT6,King Albert Park,DT6,,inside,2.0,39.0
+DT7,Sixth Avenue,DT7,,inside,2.0,41.0
+DT8,Tan Kah Kee,DT8,,inside,2.0,21.0
+EW1,Pasir Ris,EW1,,inside,2.0,10.0
+EW10,Kallang,EW10,,inside,2.0,48.0
+EW11,Lavender,EW11,,inside,2.0,3.0
+EW12/DT14,Bugis,DT14,,inside,8.0,63.0
+EW14/NS26,Raffles Place,EW14,,inside,10.0,41.0
+EW15,Tanjong Pagar,EW15,,inside,9.0,53.0
+EW16/NE3/TE17,Outram Park,EW16,,inside,8.0,76.0
+EW17,Tiong Bahru,EW17,,inside,2.0,25.0
+EW18,Redhill,EW18,,inside,2.0,43.0
+EW19,Queenstown,EW19,,inside,4.0,32.0
+EW2/DT32,Tampines,DT32,,inside,7.0,125.0
+EW20,Commonwealth,EW20,,inside,4.0,13.0
+EW21/CC22,Buona Vista,CC22,,inside,4.0,50.0
+EW22,Dover,EW22,,inside,2.0,34.0
+EW23,Clementi,EW23,,inside,4.0,37.0
+EW24/NS1,Jurong East,EW24,,inside,4.0,11.0
+EW25,Chinese Garden,EW25,,inside,3.0,17.0
+EW26,Lakeside,EW26,,inside,3.0,20.0
+EW27,Boon Lay,EW27,,inside,6.0,40.0
+EW28,Pioneer,EW28,,inside,2.0,20.0
+EW29,Joo Koon,EW29,,inside,2.0,22.0
+EW3,Simei,EW3,,inside,1.0,77.0
+EW30,Gul Circle,EW30,,inside,2.0,101.0
+EW31,Tuas Crescent,EW31,,inside,2.0,9.0
+EW32,Tuas West Road,EW32,,inside,2.0,11.0
+EW33,Tuas Link,EW33,,inside,2.0,19.0
+EW4,Tanah Merah,EW4,,inside,2.0,94.0
+EW5,Bedok,EW5,,inside,3.0,85.0
+EW6,Kembangan,EW6,,inside,2.0,3.0
+EW7,Eunos,EW7,,inside,3.0,58.0
+EW8/CC9,Paya Lebar,CC9,,inside,6.0,43.0
+EW9,Aljunied,EW9,,inside,2.0,47.0
+NE1/CC29,HarbourFront,CC29,,inside,6.0,28.0
+NE10,Potong Pasir,NE10,,inside,3.0,33.0
+NE11,Woodleigh,NE11,,inside,3.0,25.0
+NE12/CC13,Serangoon,CC13,,inside,8.0,103.0
+NE13,Kovan,NE13,,inside,3.0,22.0
+NE14,Hougang,NE14,,inside,3.0,21.0
+NE15,Buangkok,NE15,,inside,2.0,30.0
+NE16/STC,Sengkang,NE16,,inside,4.0,23.0
+NE17/PTC,Punggol,NE17,,inside,4.0,40.0
+NE18,Punggol Coast,NE18,,inside,2.0,13.0
+NE4/DT19,Chinatown,DT19,,inside,6.0,57.0
+NE5,Clarke Quay,NE5,,inside,6.0,78.0
+NE7/DT12,Little India,DT12,,inside,6.0,73.0
+NE8,Farrer Park,NE8,,inside,9.0,51.0
+NE9,Boon Keng,NE9,,inside,3.0,53.0
+NS10,Admiralty,NS10,,inside,4.0,24.0
+NS11,Sembawang,NS11,,inside,4.0,26.0
+NS12,Canberra,NS12,,inside,5.0,12.0
+NS13,Yishun,NS13,,inside,5.0,24.0
+NS14,Khatib,NS14,,inside,4.0,22.0
+NS15,Yio Chu Kang,NS15,,inside,3.0,5.0
+NS16,Ang Mo Kio,NS16,,inside,4.0,37.0
+NS17/CC15,Bishan,CC15,,inside,5.0,79.0
+NS18,Braddell,NS18,,inside,3.0,43.0
+NS19,Toa Payoh,NS19,,inside,4.0,17.0
+NS2,Bukit Batok,NS2,,inside,4.0,30.0
+NS20,Novena,NS20,,inside,2.0,9.0
+NS21/DT11,Newton,DT11,,inside,3.0,82.0
+NS23,Somerset,NS23,,inside,4.0,29.0
+NS24/NE6/CC1,Dhoby Ghaut,NS24,,inside,6.0,105.0
+NS25/EW13,City Hall,EW13,,inside,4.0,36.0
+NS27/CC33/TE20,Marina Bay,CC33,,inside,5.0,55.0
+NS28,Marina South Pier,NS28,,inside,2.0,59.0
+NS3,Bukit Gombak,NS3,,inside,4.0,40.0
+NS4/BP1,Choa Chu Kang,NS4; BP1,,inside,9.0,37.0
+NS5,Yew Tee,NS5,,inside,4.0,16.0
+NS7,Kranji,NS7,,inside,4.0,21.0
+NS8,Marsiling,NS8,,inside,4.0,15.0
+NS9/TE2,Woodlands,NS9,,inside,7.0,178.0
+PE1,Cove,PE1,,inside,2.0,22.0
+PE2,Meridian,PE2,,inside,2.0,10.0
+PE3,Coral Edge,PE3,,inside,2.0,17.0
+PE4,Riviera,PE4,,inside,2.0,26.0
+PE5,Kadaloor,PE5,,inside,2.0,7.0
+PE6,Oasis,PE6,,inside,2.0,9.0
+PE7,Damai,PE7,,inside,2.0,28.0
+PW1,Sam Kee,PW1,,inside,2.0,19.0
+PW2,Teck Lee,PW2,,inside,2.0,4.0
+PW3,Punggol Point,PW3,,inside,2.0,28.0
+PW4,Samudera,PW4,,inside,2.0,9.0
+PW5,Nibong,PW5,,inside,2.0,10.0
+PW6,Sumang,PW6,,inside,2.0,9.0
+PW7,Soo Teck,PW7,,inside,2.0,9.0
+SE1,Compassvale,SE1,,inside,2.0,13.0
+SE2,Rumbia,SE2,,inside,2.0,28.0
+SE3,Bakau,SE3,,inside,2.0,12.0
+SE4,Kangkar,SE4,,inside,2.0,13.0
+SE5,Ranggung,SE5,,inside,2.0,35.0
+SW1,Cheng Lim,SW1,,inside,2.0,12.0
+SW2,Farmway,SW2,,inside,2.0,14.0
+SW3,Kupang,SW3,,inside,2.0,26.0
+SW4,Thanggam,SW4,,inside,2.0,27.0
+SW5,Fernvale,SW5,,inside,1.0,24.0
+SW6,Layar,SW6,,inside,2.0,1.0
+SW7,Tongkang,SW7,,inside,2.0,12.0
+SW8,Renjong,SW8,,inside,2.0,1.0
+TE1,Woodlands North,TE1,,inside,2.0,48.0
+TE12,Napier,TE12,,inside,2.0,68.0
+TE13,Orchard Boulevard,TE13,,inside,2.0,80.0
+TE14/NS22,Orchard,NS22,,inside,13.0,43.0
+TE15,Great World,TE15,,inside,6.0,77.0
+TE16,Havelock,TE16,,inside,5.0,53.0
+TE18,Maxwell,TE18,,inside,3.0,36.0
+TE19,Shenton Way,TE19,,inside,6.0,63.0
+TE22,Gardens by the Bay,TE22,,inside,3.0,66.0
+TE23,Tanjong Rhu,TE23,,inside,2.0,20.0
+TE24,Katong Park,TE24,,inside,2.0,44.0
+TE25,Tanjong Katong,TE25,,inside,3.0,15.0
+TE26,Marine Parade,TE26,,inside,6.0,108.0
+TE27,Marine Terrace,TE27,,inside,6.0,29.0
+TE28,Siglap,TE28,,inside,4.0,18.0
+TE29,Bayshore,TE29,,inside,5.0,90.0
+TE3,Woodlands South,TE3,,inside,5.0,90.0
+TE4,Springleaf,TE4,,inside,3.0,66.0
+TE5,Lentor,TE5,,inside,5.0,118.0
+TE6,Mayflower,TE6,,inside,7.0,69.0
+TE7,Bright Hill,TE7,,inside,4.0,33.0
+TE8,Upper Thomson,TE8,,inside,5.0,18.0

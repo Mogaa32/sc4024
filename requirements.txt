@@ -1,0 +1,9 @@
+# Data pipeline
+pandas
+requests
+python-dotenv
+truststore
+matplotlib   # also used by build_stations.py to test which region a station is in
+
+# EDA notebook (eda.ipynb)
+ipykernel

@@ -1,0 +1,185 @@
+station_code,station_name,lines,line_codes,station_type,latitude,longitude,region
+BP10,Fajar,Bukit Panjang LRT,BP,LRT,1.384533,103.770838,West
+BP11,Segar,Bukit Panjang LRT,BP,LRT,1.387756,103.76966,West
+BP12,Jelapang,Bukit Panjang LRT,BP,LRT,1.386697,103.764501,West
+BP13,Senja,Bukit Panjang LRT,BP,LRT,1.382699,103.762369,West
+BP2,South View,Bukit Panjang LRT,BP,LRT,1.380298,103.745292,West
+BP3,Keat Hong,Bukit Panjang LRT,BP,LRT,1.378612,103.749052,West
+BP4,Teck Whye,Bukit Panjang LRT,BP,LRT,1.376659,103.7537,West
+BP5,Phoenix,Bukit Panjang LRT,BP,LRT,1.378625,103.758034,West
+BP6/DT1,Bukit Panjang,Bukit Panjang LRT; Downtown Line,BP; DT,MRT+LRT,1.378538,103.762298,West
+BP7,Petir,Bukit Panjang LRT,BP,LRT,1.377755,103.766667,West
+BP8,Pending,Bukit Panjang LRT,BP,LRT,1.376127,103.77128,West
+BP9,Bangkit,Bukit Panjang LRT,BP,LRT,1.380015,103.772661,West
+CC10/DT26,MacPherson,Circle Line; Downtown Line,CC; DT,MRT,1.326152,103.889303,Central
+CC11,Tai Seng,Circle Line,CC,MRT,1.335774,103.887862,Central
+CC12,Bartley,Circle Line,CC,MRT,1.342847,103.879725,Central
+CC14,Lorong Chuan,Circle Line,CC,MRT,1.35162,103.864144,North-East
+CC16,Marymount,Circle Line,CC,MRT,1.348777,103.839413,Central
+CC17/TE9,Caldecott,Circle Line; Thomson-East Coast Line,CC; TE,MRT,1.337659,103.839541,Central
+CC19/DT9,Botanic Gardens,Circle Line; Downtown Line,CC; DT,MRT,1.322109,103.814989,Central
+CC2,Bras Basah,Circle Line,CC,MRT,1.296827,103.850656,Central
+CC20,Farrer Road,Circle Line,CC,MRT,1.317292,103.80723,Central
+CC21,Holland Village,Circle Line,CC,MRT,1.312247,103.796406,Central
+CC23,one-north,Circle Line,CC,MRT,1.299656,103.787394,Central
+CC24,Kent Ridge,Circle Line,CC,MRT,1.293487,103.784458,Central
+CC25,Haw Par Villa,Circle Line,CC,MRT,1.282755,103.78148,Central
+CC26,Pasir Panjang,Circle Line,CC,MRT,1.27623,103.791342,Central
+CC27,Labrador Park,Circle Line,CC,MRT,1.27226,103.802634,Central
+CC28,Telok Blangah,Circle Line,CC,MRT,1.270556,103.809749,Central
+CC3,Esplanade,Circle Line,CC,MRT,1.29326,103.855612,Central
+CC30,Keppel,Circle Line,CC,MRT,1.270094,103.830398,Central
+CC31,Cantonment,Circle Line,CC,MRT,1.272943,103.836631,Central
+CC32,Prince Edward Road,Circle Line,CC,MRT,1.27327,103.847494,Central
+CC34/DT16,Bayfront,Circle Line; Downtown Line,CC; DT,MRT,1.281872,103.859076,Central
+CC4/DT15,Promenade,Circle Line; Downtown Line,CC; DT,MRT,1.293945,103.860387,Central
+CC5,Nicoll Highway,Circle Line,CC,MRT,1.299803,103.863633,Central
+CC6,Stadium,Circle Line,CC,MRT,1.302854,103.875348,Central
+CC7,Mountbatten,Circle Line,CC,MRT,1.306186,103.882439,Central
+CC8,Dakota,Circle Line,CC,MRT,1.308537,103.889033,Central
+CG1/DT35,Expo,East-West Line; Downtown Line,EW; DT,MRT,1.334549,103.961546,East
+CG2,Changi Airport,East-West Line,EW,MRT,1.357472,103.98789,East
+DT10/TE11,Stevens,Downtown Line; Thomson-East Coast Line,DT; TE,MRT,1.320066,103.826023,Central
+DT13,Rochor,Downtown Line,DT,MRT,1.303928,103.852439,Central
+DT17,Downtown,Downtown Line,DT,MRT,1.279441,103.852851,Central
+DT18,Telok Ayer,Downtown Line,DT,MRT,1.282334,103.848279,Central
+DT2,Cashew,Downtown Line,DT,MRT,1.36981,103.764438,West
+DT20,Fort Canning,Downtown Line,DT,MRT,1.292472,103.844325,Central
+DT21,Bencoolen,Downtown Line,DT,MRT,1.298687,103.850162,Central
+DT22,Jalan Besar,Downtown Line,DT,MRT,1.305033,103.8552,Central
+DT23,Bendemeer,Downtown Line,DT,MRT,1.313687,103.86312,Central
+DT24,Geylang Bahru,Downtown Line,DT,MRT,1.321513,103.871911,Central
+DT25,Mattar,Downtown Line,DT,MRT,1.326866,103.883253,Central
+DT27,Ubi,Downtown Line,DT,MRT,1.329975,103.899224,Central
+DT28,Kaki Bukit,Downtown Line,DT,MRT,1.334963,103.908455,East
+DT29,Bedok North,Downtown Line,DT,MRT,1.334756,103.917877,East
+DT3,Hillview,Downtown Line,DT,MRT,1.36234,103.767429,West
+DT30,Bedok Reservoir,Downtown Line,DT,MRT,1.336573,103.932535,East
+DT31,Tampines West,Downtown Line,DT,MRT,1.345518,103.938429,East
+DT33,Tampines East,Downtown Line,DT,MRT,1.356213,103.954805,East
+DT34,Upper Changi,Downtown Line,DT,MRT,1.34174,103.961473,East
+DT4,Hume,Downtown Line,DT,MRT,1.354595,103.769119,West
+DT5,Beauty World,Downtown Line,DT,MRT,1.341204,103.775819,Central
+DT6,King Albert Park,Downtown Line,DT,MRT,1.33568,103.783452,Central
+DT7,Sixth Avenue,Downtown Line,DT,MRT,1.330885,103.796959,Central
+DT8,Tan Kah Kee,Downtown Line,DT,MRT,1.325554,103.807758,Central
+EW1,Pasir Ris,East-West Line,EW,MRT,1.372952,103.949258,East
+EW10,Kallang,East-West Line,EW,MRT,1.311397,103.871315,Central
+EW11,Lavender,East-West Line,EW,MRT,1.307372,103.862838,Central
+EW12/DT14,Bugis,East-West Line; Downtown Line,EW; DT,MRT,1.299451,103.856886,Central
+EW14/NS26,Raffles Place,East-West Line; North-South Line,EW; NS,MRT,1.284067,103.851459,Central
+EW15,Tanjong Pagar,East-West Line,EW,MRT,1.276602,103.845962,Central
+EW16/NE3/TE17,Outram Park,East-West Line; North-East Line; Thomson-East Coast Line,EW; NE; TE,MRT,1.281412,103.83914,Central
+EW17,Tiong Bahru,East-West Line,EW,MRT,1.286132,103.827454,Central
+EW18,Redhill,East-West Line,EW,MRT,1.28962,103.81679,Central
+EW19,Queenstown,East-West Line,EW,MRT,1.294611,103.806045,Central
+EW2/DT32,Tampines,East-West Line; Downtown Line,EW; DT,MRT,1.355143,103.943016,East
+EW20,Commonwealth,East-West Line,EW,MRT,1.302448,103.798291,Central
+EW21/CC22,Buona Vista,East-West Line; Circle Line,EW; CC,MRT,1.306484,103.790633,Central
+EW22,Dover,East-West Line,EW,MRT,1.311395,103.778649,Central
+EW23,Clementi,East-West Line,EW,MRT,1.315078,103.765233,West
+EW24/NS1,Jurong East,East-West Line; North-South Line,EW; NS,MRT,1.333209,103.742263,West
+EW25,Chinese Garden,East-West Line,EW,MRT,1.342145,103.732814,West
+EW26,Lakeside,East-West Line,EW,MRT,1.344263,103.720965,West
+EW27,Boon Lay,East-West Line,EW,MRT,1.338604,103.706059,West
+EW28,Pioneer,East-West Line,EW,MRT,1.337586,103.697319,West
+EW29,Joo Koon,East-West Line,EW,MRT,1.327717,103.678387,West
+EW3,Simei,East-West Line,EW,MRT,1.343197,103.953377,East
+EW30,Gul Circle,East-West Line,EW,MRT,1.319564,103.660594,West
+EW31,Tuas Crescent,East-West Line,EW,MRT,1.321053,103.649063,West
+EW32,Tuas West Road,East-West Line,EW,MRT,1.329982,103.639628,West
+EW33,Tuas Link,East-West Line,EW,MRT,1.340697,103.636876,West
+EW4,Tanah Merah,East-West Line,EW,MRT,1.327254,103.946548,East
+EW5,Bedok,East-West Line,EW,MRT,1.324011,103.930173,East
+EW6,Kembangan,East-West Line,EW,MRT,1.321038,103.912948,East
+EW7,Eunos,East-West Line,EW,MRT,1.319779,103.903362,Central
+EW8/CC9,Paya Lebar,East-West Line; Circle Line,EW; CC,MRT,1.317369,103.892272,Central
+EW9,Aljunied,East-West Line,EW,MRT,1.316432,103.882906,Central
+NE1/CC29,HarbourFront,North-East Line; Circle Line,NE; CC,MRT,1.265164,103.821566,Central
+NE10,Potong Pasir,North-East Line,NE,MRT,1.331387,103.86907,Central
+NE11,Woodleigh,North-East Line,NE,MRT,1.339207,103.870809,Central
+NE12/CC13,Serangoon,North-East Line; Circle Line,NE; CC,MRT,1.350627,103.872448,North-East
+NE13,Kovan,North-East Line,NE,MRT,1.359875,103.884655,North-East
+NE14,Hougang,North-East Line,NE,MRT,1.371281,103.892348,North-East
+NE15,Buangkok,North-East Line,NE,MRT,1.382772,103.893092,North-East
+NE16/STC,Sengkang,North-East Line; Sengkang LRT,NE; SK,MRT+LRT,1.391528,103.895416,North-East
+NE17/PTC,Punggol,North-East Line; Punggol LRT,NE; PG,MRT+LRT,1.405133,103.902374,North-East
+NE18,Punggol Coast,North-East Line,NE,MRT,1.414857,103.910056,North-East
+NE4/DT19,Chinatown,North-East Line; Downtown Line,NE; DT,MRT,1.284558,103.844582,Central
+NE5,Clarke Quay,North-East Line,NE,MRT,1.289212,103.84693,Central
+NE7/DT12,Little India,North-East Line; Downtown Line,NE; DT,MRT,1.306994,103.848669,Central
+NE8,Farrer Park,North-East Line,NE,MRT,1.312618,103.854379,Central
+NE9,Boon Keng,North-East Line,NE,MRT,1.319447,103.861681,Central
+NS10,Admiralty,North-South Line,NS,MRT,1.440587,103.800977,North
+NS11,Sembawang,North-South Line,NS,MRT,1.44907,103.820194,North
+NS12,Canberra,North-South Line,NS,MRT,1.443118,103.829715,North
+NS13,Yishun,North-South Line,NS,MRT,1.429582,103.834972,North
+NS14,Khatib,North-South Line,NS,MRT,1.417577,103.833038,North
+NS15,Yio Chu Kang,North-South Line,NS,MRT,1.381758,103.844801,North-East
+NS16,Ang Mo Kio,North-South Line,NS,MRT,1.369949,103.849616,North-East
+NS17/CC15,Bishan,North-South Line; Circle Line,NS; CC,MRT,1.3513,103.849251,Central
+NS18,Braddell,North-South Line,NS,MRT,1.340444,103.8468,Central
+NS19,Toa Payoh,North-South Line,NS,MRT,1.332677,103.847421,Central
+NS2,Bukit Batok,North-South Line,NS,MRT,1.348997,103.749541,West
+NS20,Novena,North-South Line,NS,MRT,1.32043,103.843818,Central
+NS21/DT11,Newton,North-South Line; Downtown Line,NS; DT,MRT,1.313501,103.838082,Central
+NS23,Somerset,North-South Line,NS,MRT,1.300258,103.839075,Central
+NS24/NE6/CC1,Dhoby Ghaut,North-South Line; North-East Line; Circle Line,NS; NE; CC,MRT,1.298699,103.846116,Central
+NS25/EW13,City Hall,North-South Line; East-West Line,NS; EW,MRT,1.292933,103.852609,Central
+NS27/CC33/TE20,Marina Bay,North-South Line; Circle Line; Thomson-East Coast Line,NS; CC; TE,MRT,1.27595,103.855145,Central
+NS28,Marina South Pier,North-South Line,NS,MRT,1.27101,103.862428,Central
+NS3,Bukit Gombak,North-South Line,NS,MRT,1.358672,103.75191,West
+NS4/BP1,Choa Chu Kang,North-South Line; Bukit Panjang LRT,NS; BP,MRT+LRT,1.384997,103.744459,West
+NS5,Yew Tee,North-South Line,NS,MRT,1.39755,103.747402,West
+NS7,Kranji,North-South Line,NS,MRT,1.425124,103.762145,North
+NS8,Marsiling,North-South Line,NS,MRT,1.432634,103.774234,North
+NS9/TE2,Woodlands,North-South Line; Thomson-East Coast Line,NS; TE,MRT,1.436831,103.786164,North
+PE1,Cove,Punggol LRT,PG,LRT,1.399362,103.905917,North-East
+PE2,Meridian,Punggol LRT,PG,LRT,1.396852,103.908991,North-East
+PE3,Coral Edge,Punggol LRT,PG,LRT,1.393926,103.912564,North-East
+PE4,Riviera,Punggol LRT,PG,LRT,1.394636,103.916224,North-East
+PE5,Kadaloor,Punggol LRT,PG,LRT,1.399639,103.916395,North-East
+PE6,Oasis,Punggol LRT,PG,LRT,1.402351,103.912632,North-East
+PE7,Damai,Punggol LRT,PG,LRT,1.405316,103.908504,North-East
+PW1,Sam Kee,Punggol LRT,PG,LRT,1.409614,103.904831,North-East
+PW2,Teck Lee,Punggol LRT,PG,LRT,1.412874,103.906626,North-East
+PW3,Punggol Point,Punggol LRT,PG,LRT,1.416911,103.906536,North-East
+PW4,Samudera,Punggol LRT,PG,LRT,1.415819,103.902087,North-East
+PW5,Nibong,Punggol LRT,PG,LRT,1.411756,103.900299,North-East
+PW6,Sumang,Punggol LRT,PG,LRT,1.408353,103.89851,North-East
+PW7,Soo Teck,Punggol LRT,PG,LRT,1.40521,103.897234,North-East
+SE1,Compassvale,Sengkang LRT,SK,LRT,1.394479,103.900555,North-East
+SE2,Rumbia,Sengkang LRT,SK,LRT,1.391564,103.90589,North-East
+SE3,Bakau,Sengkang LRT,SK,LRT,1.388105,103.905526,North-East
+SE4,Kangkar,Sengkang LRT,SK,LRT,1.384031,103.902258,North-East
+SE5,Ranggung,Sengkang LRT,SK,LRT,1.383921,103.897493,North-East
+SW1,Cheng Lim,Sengkang LRT,SK,LRT,1.396249,103.893908,North-East
+SW2,Farmway,Sengkang LRT,SK,LRT,1.397162,103.889383,North-East
+SW3,Kupang,Sengkang LRT,SK,LRT,1.398198,103.881374,North-East
+SW4,Thanggam,Sengkang LRT,SK,LRT,1.397437,103.875655,North-East
+SW5,Fernvale,Sengkang LRT,SK,LRT,1.391944,103.87628,North-East
+SW6,Layar,Sengkang LRT,SK,LRT,1.392093,103.880158,North-East
+SW7,Tongkang,Sengkang LRT,SK,LRT,1.389339,103.885937,North-East
+SW8,Renjong,Sengkang LRT,SK,LRT,1.386748,103.890429,North-East
+TE1,Woodlands North,Thomson-East Coast Line,TE,MRT,1.44835,103.785675,North
+TE12,Napier,Thomson-East Coast Line,TE,MRT,1.306607,103.818881,Central
+TE13,Orchard Boulevard,Thomson-East Coast Line,TE,MRT,1.302335,103.823629,Central
+TE14/NS22,Orchard,Thomson-East Coast Line; North-South Line,TE; NS,MRT,1.303938,103.832219,Central
+TE15,Great World,Thomson-East Coast Line,TE,MRT,1.294869,103.833474,Central
+TE16,Havelock,Thomson-East Coast Line,TE,MRT,1.288021,103.833507,Central
+TE18,Maxwell,Thomson-East Coast Line,TE,MRT,1.280521,103.843728,Central
+TE19,Shenton Way,Thomson-East Coast Line,TE,MRT,1.277627,103.850392,Central
+TE22,Gardens by the Bay,Thomson-East Coast Line,TE,MRT,1.278611,103.867686,Central
+TE23,Tanjong Rhu,Thomson-East Coast Line,TE,MRT,1.297183,103.873651,Central
+TE24,Katong Park,Thomson-East Coast Line,TE,MRT,1.297777,103.886429,Central
+TE25,Tanjong Katong,Thomson-East Coast Line,TE,MRT,1.299298,103.897505,Central
+TE26,Marine Parade,Thomson-East Coast Line,TE,MRT,1.30328,103.906009,Central
+TE27,Marine Terrace,Thomson-East Coast Line,TE,MRT,1.306745,103.915326,Central
+TE28,Siglap,Thomson-East Coast Line,TE,MRT,1.309986,103.930077,East
+TE29,Bayshore,Thomson-East Coast Line,TE,MRT,1.313123,103.942336,East
+TE3,Woodlands South,Thomson-East Coast Line,TE,MRT,1.427396,103.79327,North
+TE4,Springleaf,Thomson-East Coast Line,TE,MRT,1.397583,103.817859,North
+TE5,Lentor,Thomson-East Coast Line,TE,MRT,1.385476,103.835789,North-East
+TE6,Mayflower,Thomson-East Coast Line,TE,MRT,1.371449,103.83658,North-East
+TE7,Bright Hill,Thomson-East Coast Line,TE,MRT,1.363409,103.833039,Central
+TE8,Upper Thomson,Thomson-East Coast Line,TE,MRT,1.354405,103.832924,Central

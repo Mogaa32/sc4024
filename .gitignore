@@ -1,0 +1,14 @@
+# Secrets - never commit the API key
+.env
+
+# Raw data: the ZIPs ARE kept in git, because LTA only keeps the last 3 months
+# and older months can't be downloaded again. The extracted CSVs are big
+# (~38 MB) and fetch_data.py re-creates them from the ZIPs, so ignore those.
+data/raw/*.csv
+data/raw/*.part
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/

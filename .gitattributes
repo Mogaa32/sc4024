@@ -1,0 +1,6 @@
+# Store text files with LF line endings in git, so Windows and Mac teammates get the same files
+* text=auto
+
+# Binary files: never change these
+*.zip binary
+*.png binary
