@@ -1,0 +1,63 @@
+check,expected_monthly_trips,actual_monthly_trips,difference,passed
+network to region edges,85880089,85880089,0,True
+network to station buckets,85880089,85880089,0,True
+reference Central -> Central,25117999,25117999,0,True
+origin attribution Central -> Central,25117999,25117999,0,True
+reference Central -> West,4501594,4501594,0,True
+origin attribution Central -> West,4501594,4501594,0,True
+reference Central -> North-East,5837062,5837062,0,True
+origin attribution Central -> North-East,5837062,5837062,0,True
+reference Central -> North,3441258,3441258,0,True
+origin attribution Central -> North,3441258,3441258,0,True
+reference Central -> East,3976342,3976342,0,True
+origin attribution Central -> East,3976342,3976342,0,True
+reference West -> Central,4555556,4555556,0,True
+origin attribution West -> Central,4555556,4555556,0,True
+reference West -> West,6839978,6839978,0,True
+origin attribution West -> West,6839978,6839978,0,True
+reference West -> North-East,494414,494414,0,True
+origin attribution West -> North-East,494414,494414,0,True
+reference West -> North,1703291,1703291,0,True
+origin attribution West -> North,1703291,1703291,0,True
+reference West -> East,415007,415007,0,True
+origin attribution West -> East,415007,415007,0,True
+reference North-East -> Central,5823905,5823905,0,True
+origin attribution North-East -> Central,5823905,5823905,0,True
+reference North-East -> West,491653,491653,0,True
+origin attribution North-East -> West,491653,491653,0,True
+reference North-East -> North-East,4585302,4585302,0,True
+origin attribution North-East -> North-East,4585302,4585302,0,True
+reference North-East -> North,831176,831176,0,True
+origin attribution North-East -> North,831176,831176,0,True
+reference North-East -> East,272795,272795,0,True
+origin attribution North-East -> East,272795,272795,0,True
+reference North -> Central,3506764,3506764,0,True
+origin attribution North -> Central,3506764,3506764,0,True
+reference North -> West,1736182,1736182,0,True
+origin attribution North -> West,1736182,1736182,0,True
+reference North -> North-East,843769,843769,0,True
+origin attribution North -> North-East,843769,843769,0,True
+reference North -> North,3023996,3023996,0,True
+origin attribution North -> North,3023996,3023996,0,True
+reference North -> East,164624,164624,0,True
+origin attribution North -> East,164624,164624,0,True
+reference East -> Central,4047123,4047123,0,True
+origin attribution East -> Central,4047123,4047123,0,True
+reference East -> West,413215,413215,0,True
+origin attribution East -> West,413215,413215,0,True
+reference East -> North-East,272949,272949,0,True
+origin attribution East -> North-East,272949,272949,0,True
+reference East -> North,156639,156639,0,True
+origin attribution East -> North,156639,156639,0,True
+reference East -> East,2827496,2827496,0,True
+origin attribution East -> East,2827496,2827496,0,True
+destination node Central,43051347,43051347,0,True
+origin node Central,42874255,42874255,0,True
+destination node West,13982622,13982622,0,True
+origin node West,14008246,14008246,0,True
+destination node North-East,12033496,12033496,0,True
+origin node North-East,12004831,12004831,0,True
+destination node North,9156360,9156360,0,True
+origin node North,9275335,9275335,0,True
+destination node East,7656264,7656264,0,True
+origin node East,7717422,7717422,0,True
