@@ -1,0 +1,13 @@
+station_code,tap_in,tap_out,station_name,period,days,net_into_surroundings_monthly,net_into_surroundings_per_weekday,period_rank,morning_rank,evening_reverses_direction,selected_for_display,display_order
+EW14/NS26,31378,815486,Raffles Place,Morning,22,784108,35641.27272727,1,1,True,True,1
+EW15,45599,475693,Tanjong Pagar,Morning,22,430094,19549.72727273,2,2,True,True,2
+DT17,12895,340092,Downtown,Morning,22,327197,14872.59090909,3,3,True,True,3
+NE16/STC,384295,103249,Sengkang,Morning,22,-281046,-12774.81818182,184,184,True,True,4
+NS13,392099,148600,Yishun,Morning,22,-243499,-11068.13636364,183,183,True,True,5
+NE12/CC13,390913,153790,Serangoon,Morning,22,-237123,-10778.31818182,182,182,True,True,6
+EW14/NS26,800510,117616,Raffles Place,Evening,22,-682894,-31040.63636364,184,1,True,True,1
+EW15,461827,120957,Tanjong Pagar,Evening,22,-340870,-15494.09090909,183,2,True,True,2
+DT17,313484,30080,Downtown,Evening,22,-283404,-12882.00000000,182,3,True,True,3
+NE16/STC,179179,402732,Sengkang,Evening,22,223553,10161.50000000,4,184,True,True,4
+NS13,190843,473712,Yishun,Evening,22,282869,12857.68181818,1,183,True,True,5
+NE12/CC13,242748,472042,Serangoon,Evening,22,229294,10422.45454545,3,182,True,True,6

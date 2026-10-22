@@ -1,0 +1,187 @@
+{
+  "month": "202609",
+  "day_counts": {
+    "WEEKDAY": 22,
+    "WEEKENDS/HOLIDAY": 8
+  },
+  "calendar_days": 30,
+  "scope": "Full MRT/LRT network",
+  "od_rows": 880362,
+  "station_hourly_rows": 7360,
+  "od_monthly_trips": 85880089,
+  "station_gate_totals": {
+    "tap_in": 87051437,
+    "tap_out": 86776212
+  },
+  "top15_share": 0.024141055559455695,
+  "flow_map_category_ranges": {
+    "Higher": {
+      "minimum_trips_per_day": 4805.366666666667,
+      "maximum_trips_per_day": 6368.233333333334,
+      "link_count": 5
+    },
+    "Medium": {
+      "minimum_trips_per_day": 4145.733333333334,
+      "maximum_trips_per_day": 4714.866666666667,
+      "link_count": 5
+    },
+    "Lower": {
+      "minimum_trips_per_day": 3811.5333333333333,
+      "maximum_trips_per_day": 4013.5,
+      "link_count": 5
+    }
+  },
+  "central_to_central_share": 0.29247756135883834,
+  "conservation_checks": 62,
+  "images": [
+    {
+      "file": "backup\\top10_weekday.png",
+      "width": 1280,
+      "height": 720,
+      "opaque": true
+    },
+    {
+      "file": "backup\\top10_weekend.png",
+      "width": 1280,
+      "height": 720,
+      "opaque": true
+    },
+    {
+      "file": "slopegraph_original_six.png",
+      "width": 1280,
+      "height": 720,
+      "opaque": true
+    },
+    {
+      "file": "flow_map.png",
+      "width": 1280,
+      "height": 720,
+      "opaque": true
+    },
+    {
+      "file": "flow_map_volume_categories.png",
+      "width": 1280,
+      "height": 720,
+      "opaque": true
+    },
+    {
+      "file": "diverging_bar.png",
+      "width": 1280,
+      "height": 720,
+      "opaque": true
+    },
+    {
+      "file": "slopegraph.png",
+      "width": 1280,
+      "height": 720,
+      "opaque": true
+    },
+    {
+      "file": "sankey_regions.png",
+      "width": 1280,
+      "height": 720,
+      "opaque": true
+    },
+    {
+      "file": "sankey_full.png",
+      "width": 1280,
+      "height": 720,
+      "opaque": true
+    },
+    {
+      "file": "sankey_focus_central.png",
+      "width": 1280,
+      "height": 720,
+      "opaque": true
+    },
+    {
+      "file": "sankey_focus_west.png",
+      "width": 1280,
+      "height": 720,
+      "opaque": true
+    },
+    {
+      "file": "sankey_focus_northeast.png",
+      "width": 1280,
+      "height": 720,
+      "opaque": true
+    },
+    {
+      "file": "sankey_focus_north.png",
+      "width": 1280,
+      "height": 720,
+      "opaque": true
+    },
+    {
+      "file": "sankey_focus_east.png",
+      "width": 1280,
+      "height": 720,
+      "opaque": true
+    }
+  ],
+  "animations": [
+    {
+      "file": "flow_map_animated.mp4",
+      "width": 1280,
+      "height": 720,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "fps": 15.0,
+      "frames": 120,
+      "duration_seconds": 8.0,
+      "audio": false,
+      "full_decode": true
+    },
+    {
+      "file": "flow_map_highlight_animated.mp4",
+      "width": 1280,
+      "height": 720,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "fps": 15.0,
+      "frames": 90,
+      "duration_seconds": 6.0,
+      "audio": false,
+      "full_decode": true
+    },
+    {
+      "file": "diverging_bar_animated.mp4",
+      "width": 1280,
+      "height": 720,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "fps": 15.0,
+      "frames": 120,
+      "duration_seconds": 8.0,
+      "audio": false,
+      "full_decode": true
+    },
+    {
+      "file": "slopegraph_animated.mp4",
+      "width": 1280,
+      "height": 720,
+      "codec": "h264",
+      "pixel_format": "yuv420p",
+      "fps": 15.0,
+      "frames": 120,
+      "duration_seconds": 8.0,
+      "audio": false,
+      "full_decode": true
+    }
+  ],
+  "all_checks_passed": true,
+  "validation_mode": "full",
+  "dependencies": {
+    "pandas": "2.2.2",
+    "numpy": "1.23.5",
+    "matplotlib": "3.10.1",
+    "Pillow": "10.3.0"
+  },
+  "input_sha256": {
+    "data\\clean\\stations.csv": "e09207f248955f60961b345f6a1880ac07b5e0e7869f83af11c2005ca386d435",
+    "data\\clean\\od_hourly.csv": "83f7e9b5a1349c1327669e0391d3e10eb91ea71428fd1498684f073688b890e5",
+    "data\\clean\\station_hourly.csv": "afdbc4945f4bb388ddbeea0a0582dcb3b1fb2e2ca67593b908a6ec3436dee016",
+    "data\\clean\\od_region.csv": "5f86d1ef1d88e4d2af7a196deeb5641401612da70805b56c83a0386ef20d8398",
+    "data\\reference\\ura_mp2019_region_boundary.geojson": "2ac87b6da63c39d6311c7bc018aafddbffcfa18fd8faed09243207c9b502627d"
+  }
+}
